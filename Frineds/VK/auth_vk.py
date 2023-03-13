@@ -1,0 +1,5 @@
+def auth_vk_token():
+    return "vk1.a.r71teWCP9j97gd1KVs4dNHeTQwII2TKUrLLW7Wk7z83o_IJmIV9OwE3zgqwMU1GwcDM7M8__DjbT8D8Z4Lz5FPIRGXAQuxMjiv6tJBhETYwgs70v7h5loJ2YpL7hSDiaZggMXV044v9b3e_tIrUQZ1ANHDfGWXGV8vGgXopYkMzdfKKGORee-fp3i0J4VpbjsxE49HHLqEsvjAc_8NTXvw"
+
+
+
